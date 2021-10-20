@@ -15,7 +15,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-pant-8844521b7/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/1SarthakPant)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthak.pant31@gmail.com)
-  
+
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -42,6 +42,8 @@
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=sarthakpant772&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakpant772&theme=react&layout=compact" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=sarthakpant772&style=flat-square)
 
 ------
 
