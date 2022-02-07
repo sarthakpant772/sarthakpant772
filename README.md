@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak <img height="40" src="(https://emoji.gg/assets/emoji/6189-mariobros-mariohello.gif"></h1>
 <h3 align="center">A passionate Macine Learning and Front-End  developer from India</h3>
 
-- 🔭 I’m currently working on my Machine Learning skill.
+- 🔭 I’m currently working on my Machine Learning and Web skills.
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
